@@ -1,0 +1,236 @@
+/* Hero section container */
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
+
+.programs-body {
+    margin-top: 19px;
+    background-color: #372158;
+}
+
+/* Text styles and colors */
+.section_title_dark {
+    font-size: 40px;
+    font-weight: 900;
+    color: #6f4772;
+    text-align: center;
+}
+
+/* ------------------------------------- */
+.web_body {
+    background-color: #8563b9;
+    padding-top: 60px;
+    margin-top: 55px;
+    height: 500px;
+}
+/* Image on the right */
+.rdo_img img {
+    width: 600px;
+}
+.radio-box audio {
+    margin-top: -138px;
+    margin-left: 120px;
+}
+.hero-content {
+    padding: 20px;
+    color: #fff;
+}
+
+.hero-content .welcome {
+    font-family: "Luckiest Guy", sans-serif;
+    color: #fff;
+    font-size: 70px;
+}
+
+.hero-content .to {
+    font-family: "Luckiest Guy", sans-serif;
+    color: #ffd699;
+    font-size: 30px;
+}
+
+.hero-content .nie-radio {
+    font-family: "Luckiest Guy", sans-serif;
+    color: #bc0b34;
+    font-size: 70px;
+    text-transform: capitalize;
+}
+
+.hero-content .by {
+    font-family: "Luckiest Guy", sans-serif;
+    color: #e81748;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+.btn-readmore {
+    color: #835886;
+    font-weight: 700;
+    font-size: large;
+    background-color: #c9b0ea;
+    border-radius: 30px;
+    border: 1px solid #c9b0ea;
+    padding: 5px 15px;
+}
+
+.btn-readmore:hover {
+    color: #f8faf9;
+    background-color: #835886;
+    border-radius: 30px;
+    border: 1px solid #835886;
+    padding: 5px 15px;
+}
+/* @media (min-width: 1199px) {
+    .web_body {
+        height: 500px;
+    }
+    .rdo_img img {
+        width: 600px;
+    }
+    .radio-box audio {
+    }
+    .hero-content {
+        padding: 20px;
+    }
+
+    .hero-content .welcome {
+        font-size: 70px;
+    }
+
+    .hero-content .to {
+        font-size: 30px;
+    }
+
+    .hero-content .nie-radio {
+        font-size: 70px;
+    }
+
+    .hero-content .by {
+        font-size: 50px;
+    }
+
+    .btn-readmore {
+        font-size: large;
+    }
+}
+
+@media (max-width: 1199px) {
+    .web_body {
+        height: 500px;
+        padding-top: 30px;
+    }
+    .rdo_img img {
+        width: 500px;
+    }
+    .radio-box audio {
+    }
+    .hero-content {
+        padding: 20px;
+    }
+
+    .hero-content .welcome {
+        font-size: 70px;
+    }
+
+    .hero-content .to {
+        font-size: 30px;
+    }
+
+    .hero-content .nie-radio {
+        font-size: 70px;
+    }
+
+    .hero-content .by {
+        font-size: 50px;
+    }
+
+    .btn-readmore {
+        font-size: large;
+    }
+}
+@media (max-width: 991px) {
+    .web_body {
+        height: 400px;
+        padding-top: 30px;
+    }
+    .rdo_img img {
+        width: 400px;
+    }
+    .radio-box audio {
+    }
+    .hero-content {
+        padding: 10px;
+    }
+    .hero-content .welcome {
+        font-size: 60px;
+    }
+    .hero-content .to {
+        font-size: 30px;
+    }
+    .hero-content .nie-radio {
+        font-size: 60px;
+    }
+    .hero-content .by {
+        font-size: 30px;
+    }
+    .btn-readmore {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .web_body {
+        height: 700px;
+        padding-top: 20px;
+    }
+    .rdo_img img {
+        width: 520px;
+    }
+    .radio-box audio {
+    }
+    .hero-content {
+        padding: 10px;
+    }
+    .hero-content .welcome {
+        font-size: 60px;
+    }
+    .hero-content .to {
+        font-size: 30px;
+    }
+    .hero-content .nie-radio {
+        font-size: 60px;
+    }
+    .hero-content .by {
+        font-size: 30px;
+    }
+    .btn-readmore {
+        font-size: 20px;
+    }
+}
+@media (max-width: 576px) {
+    .web_body {
+        height: 700px;
+        padding-top: 20px;
+    }
+    .rdo_img img {
+        width: 530px;
+    }
+    .radio-box audio {
+    }
+    .hero-content {
+        padding: 10px;
+    }
+    .hero-content .welcome {
+        font-size: 60px;
+    }
+    .hero-content .to {
+        font-size: 30px;
+    }
+    .hero-content .nie-radio {
+        font-size: 60px;
+    }
+    .hero-content .by {
+        font-size: 30px;
+    }
+    .btn-readmore {
+        font-size: 20px;
+    }
+} */
